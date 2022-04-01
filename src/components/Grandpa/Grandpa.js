@@ -23,5 +23,4 @@ const Grandpa = () => {
   );
 };
 
-
 export default Grandpa;
