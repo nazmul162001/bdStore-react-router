@@ -41,6 +41,7 @@ const Home = () => {
         <Cart
           cart = {cart}
           handleRemoveCart ={handleRemoveCart}
+          setCart = {setCart}
         ></Cart>
       </div>
     </div>
