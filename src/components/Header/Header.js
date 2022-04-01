@@ -10,7 +10,7 @@ const Header = () => {
       <nav>
         <CustomLink to='/home'>Home</CustomLink>
         <CustomLink to='/orderreview'>Review</CustomLink>
-        <CustomLink to='/cart'>Cart</CustomLink>
+        <CustomLink to='/grandpa'>Props Drilling</CustomLink>
       </nav>
     </div>
   );
